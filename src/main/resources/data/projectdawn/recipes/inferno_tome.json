@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "YXY",
+    "XZX",
+    "YXY"
+  ],
+  "key": {
+    "X": {
+      "item": "projectdawn:radiant_crystal"
+    },
+    "Y": {
+      "item": "minecraft:blaze_powder"
+    },
+    "Z": {
+      "item": "projectdawn:empty_spelltome"
+    }
+  },
+  "result": {
+    "item": "projectdawn:inferno_tome"
+  }
+}

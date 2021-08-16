@@ -1,0 +1,36 @@
+{
+  "parent": "projectdawn:adventure/mystic_wonders",
+  "display": {
+    "icon": {
+      "item": "projectdawn:arcane_sword",
+      "nbt": "{Damage:0}"
+    },
+    "title": {
+      "translate": "advancements.adventure.sword_in_stone.title"
+    },
+    "description": {
+      "translate": "advancements.adventure.sword_in_stone.description"
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "arcane_sword": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "projectdawn:arcane_sword"
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "arcane_sword"
+    ]
+  ]
+}

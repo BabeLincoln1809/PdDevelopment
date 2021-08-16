@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "projectdawn:mysterious_rune"
+    },
+    {
+      "item": "projectdawn:molten_ball"
+    }
+  ],
+  "result": {
+    "item": "projectdawn:ember_rune"
+  }
+}

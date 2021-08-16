@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "XZX",
+    "YXY"
+  ],
+  "key": {
+    "X": {
+      "item": "projectdawn:golden_rod"
+    },
+      "Y": {
+        "item": "minecraft:glowstone_dust"
+      },
+    "Z": {
+      "item": "projectdawn:harp"
+    },
+    "#": {
+      "item": "projectdawn:arcane_shard"
+    }
+  },
+      "result": {
+        "item": "projectdawn:magic_harp"
+      }
+}

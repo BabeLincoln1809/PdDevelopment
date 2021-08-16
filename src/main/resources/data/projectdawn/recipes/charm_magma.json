@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "projectdawn:charm_arcane"
+    },
+    {
+      "item": "projectdawn:magma_bottle"
+    }
+  ],
+  "result": {
+    "item": "projectdawn:charm_magma"
+  }
+}

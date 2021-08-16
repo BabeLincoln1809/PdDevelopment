@@ -1,0 +1,17 @@
+{
+  "replace": false,
+  "values":
+  [
+    "projectdawn:arcane_wand",
+    "projectdawn:amethyst_staff",
+    "projectdawn:emerald_staff",
+    "projectdawn:ruby_staff",
+    "projectdawn:diamond_staff",
+    "projectdawn:radiant_pillar",
+    "projectdawn:nether_fork",
+    "projectdawn:frostspark_staff",
+    "projectdawn:eye_sorrow",
+    "projectdawn:soulfire_staff",
+    "projectdawn:shadowcrescent_staff"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values":
+  [
+    "projectdawn:slime_slammer",
+    "projectdawn:hammer",
+    "projectdawn:sunbreaker_hammer",
+    "projectdawn:gravity_hammer",
+    "projectdawn:stormlander_hammer"
+  ]
+}

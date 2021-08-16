@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values":
+  [
+    "projectdawn:crystal_tome",
+    "projectdawn:inferno_tome",
+    "projectdawn:evoker_tome",
+    "projectdawn:magic_harp"
+  ]
+}

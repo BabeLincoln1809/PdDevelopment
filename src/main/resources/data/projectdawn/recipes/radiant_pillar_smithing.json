@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "projectdawn:diamond_staff"
+  },
+  "addition": {
+    "item": "projectdawn:radiant_crystal"
+  },
+  "result": {
+    "item": "projectdawn:radiant_pillar"
+  }
+}

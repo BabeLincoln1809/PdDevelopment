@@ -1,0 +1,73 @@
+{
+  "type": "minecraft:chest",
+  "pools": [
+    {
+      "rolls": {
+        "min": 1.0,
+        "max": 2.0,
+        "type": "minecraft:uniform"
+      },
+      "entries": [
+        {
+          "type": "item",
+          "weight": 10,
+          "name": "projectdawn:iron_gauntlets"
+        },
+        {
+          "type": "item",
+          "weight": 5,
+          "name": "projectdawn:charm_regeneration"
+        },
+        {
+          "type": "item",
+          "weight": 5,
+          "name": "projectdawn:charm_arcane"
+        },
+        {
+          "type": "empty",
+          "weight": 25
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "item",
+          "weight": 5,
+          "functions": [
+            {
+              "function": "minecraft:set_damage",
+              "damage": {
+                "min": 0.25,
+                "max": 0.75
+              }
+            }
+          ],
+          "name": "projectdawn:axeblade"
+        },
+        {
+          "type": "item",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "minecraft:enchant_randomly"
+            },
+            {
+              "function": "minecraft:set_damage",
+              "damage": {
+                "min": 0.25,
+                "max": 0.75
+              }
+            }
+          ],
+          "name": "projectdawn:axeblade"
+        },
+        {
+          "type": "empty",
+          "weight": 80
+        }
+      ]
+    }
+  ]
+}

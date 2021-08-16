@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "projectdawn:radiant_pillar"
+  },
+  "addition": {
+    "item": "projectdawn:molten_ball"
+  },
+  "result": {
+    "item": "projectdawn:nether_fork"
+  }
+}

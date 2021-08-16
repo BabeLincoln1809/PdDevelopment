@@ -1,0 +1,15 @@
+{
+  "replace": false,
+  "values":
+  [
+    "projectdawn:wooden_battleaxe",
+    "projectdawn:stone_battleaxe",
+    "projectdawn:golden_battleaxe",
+    "projectdawn:iron_battleaxe",
+    "projectdawn:diamond_battleaxe",
+    "projectdawn:netherite_battleaxe",
+    "projectdawn:cursed_battleaxe",
+    "projectdawn:firebrand_battleaxe",
+    "projectdawn:frostbrand_battleaxe"
+  ]
+}

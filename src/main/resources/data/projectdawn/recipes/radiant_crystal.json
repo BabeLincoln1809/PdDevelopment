@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "XXX",
+    "X#X",
+    "XXX"
+  ],
+  "key": {
+    "#": {
+      "item": "projectdawn:arcane_shard"
+    },
+    "X": {
+      "item": "projectdawn:radiant_dust"
+    }
+  },
+  "result": {
+    "item": "projectdawn:radiant_crystal"
+  }
+}

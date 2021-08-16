@@ -1,0 +1,61 @@
+{
+  "type": "minecraft:entity",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "item",
+          "name": "projectdawn:jaggedtooth_sword"
+        },
+        {
+          "type": "item",
+          "name": "projectdawn:soulfire_staff"
+        },
+        {
+          "type": "item",
+          "name": "projectdawn:charm_withering"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "item",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 1.0,
+                "max": 5.0,
+                "type": "minecraft:uniform"
+              }
+            }
+          ],
+          "name": "projectdawn:wither_bone"
+        },
+        {
+          "type": "item",
+          "weight": 2,
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 1.0,
+                "max": 2.0,
+                "type": "minecraft:uniform"
+              }
+            }
+          ],
+          "name": "minecraft:wither_skeleton_skull"
+        },
+        {
+          "type": "empty",
+          "weight": 20
+        }
+      ]
+    }
+  ]
+}

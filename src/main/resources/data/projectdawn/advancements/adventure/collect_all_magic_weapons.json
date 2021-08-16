@@ -1,0 +1,223 @@
+{
+  "parent": "projectdawn:adventure/mystic_wonders",
+  "display": {
+    "icon": {
+      "item": "projectdawn:shadowcrescent_staff",
+      "nbt": "{Damage:0}"
+    },
+    "title": {
+      "translate": "advancements.adventure.collect_all_magic_weapons.title"
+    },
+    "description": {
+      "translate": "advancements.adventure.collect_all_magic_weapons.description"
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "rewards": {
+    "experience": 300
+  },
+  "criteria": {
+    "arcane_wand": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "projectdawn:arcane_wand"
+          }
+        ]
+      }
+    },
+    "amethyst_staff": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "projectdawn:amethyst_staff"
+          }
+        ]
+      }
+    },
+    "emerald_staff": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "projectdawn:emerald_staff"
+          }
+        ]
+      }
+    },
+    "ruby_staff": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "projectdawn:ruby_staff"
+          }
+        ]
+      }
+    },
+    "diamond_staff": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "projectdawn:diamond_staff"
+          }
+        ]
+      }
+    },
+    "radiant_pillar": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "projectdawn:radiant_pillar"
+          }
+        ]
+      }
+    },
+    "nether_fork": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "projectdawn:nether_fork"
+          }
+        ]
+      }
+    },
+    "frostspark_staff": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "projectdawn:frostspark_staff"
+          }
+        ]
+      }
+    },
+    "eye_sorrow": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "projectdawn:eye_sorrow"
+          }
+        ]
+      }
+    },
+    "soulfire_staff": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "projectdawn:soulfire_staff"
+          }
+        ]
+      }
+    },
+    "shadowcrescent_staff": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "projectdawn:shadowcrescent_staff"
+          }
+        ]
+      }
+    },
+    "crystal_tome": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "projectdawn:crystal_tome"
+          }
+        ]
+      }
+    },
+    "inferno_tome": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "projectdawn:inferno_tome"
+          }
+        ]
+      }
+    },
+    "evoker_tome": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "projectdawn:evoker_tome"
+          }
+        ]
+      }
+    },
+    "magic_harp": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "projectdawn:magic_harp"
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "arcane_wand"
+    ],
+    [
+      "amethyst_staff"
+    ],
+    [
+      "emerald_staff"
+    ],
+    [
+      "ruby_staff"
+    ],
+    [
+      "diamond_staff"
+    ],
+    [
+      "radiant_pillar"
+    ],
+    [
+      "nether_fork"
+    ],
+    [
+      "frostspark_staff"
+    ],
+    [
+      "eye_sorrow"
+    ],
+    [
+      "soulfire_staff"
+    ],
+    [
+      "shadowcrescent_staff"
+    ],
+
+
+    [
+      "crystal_tome"
+    ],
+    [
+      "inferno_tome"
+    ],
+    [
+      "evoker_tome"
+    ],
+    [
+      "magic_harp"
+    ]
+  ]
+}

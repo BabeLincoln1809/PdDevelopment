@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "YXY",
+    "#Z#",
+    " Y "
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:string"
+    },
+    "X": {
+      "item": "minecraft:iron_nugget"
+    },
+    "Y": {
+      "item": "minecraft:stick"
+    },
+    "Z": {
+      "item": "minecraft:tripwire_hook"
+      }
+    },
+  "result": {
+    "item": "projectdawn:boltcaster"
+  }
+}

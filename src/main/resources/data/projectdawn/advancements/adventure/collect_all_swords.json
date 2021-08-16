@@ -1,0 +1,182 @@
+{
+  "parent": "projectdawn:adventure/obtain_sword",
+  "display": {
+    "icon": {
+      "item": "projectdawn:firebrand_sword",
+      "nbt": "{Damage:0}"
+    },
+    "title": {
+      "translate": "advancements.adventure.collect_all_swords.title"
+    },
+    "description": {
+      "translate": "advancements.adventure.collect_all_swords.description"
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "rewards": {
+    "experience": 100
+  },
+  "criteria": {
+    "wooden_sword": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:wooden_sword"
+          }
+        ]
+      }
+    },
+    "stone_sword": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:stone_sword"
+          }
+        ]
+      }
+    },
+    "golden_sword": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:golden_sword"
+          }
+        ]
+      }
+    },
+    "iron_sword": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:iron_sword"
+          }
+        ]
+      }
+    },
+    "diamond_sword": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:diamond_sword"
+          }
+        ]
+      }
+    },
+    "netherite_sword": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:netherite_sword"
+          }
+        ]
+      }
+    },
+    "arcane_sword": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "projectdawn:arcane_sword"
+          }
+        ]
+      }
+    },
+    "piglin_sword": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "projectdawn:piglin_sword"
+          }
+        ]
+      }
+    },
+    "firebrand_sword": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "projectdawn:firebrand_sword"
+          }
+        ]
+      }
+    },
+    "frostbrand_sword": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "projectdawn:frostbrand_sword"
+          }
+        ]
+      }
+    },
+    "jaggedtooth_sword": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "projectdawn:jaggedtooth_sword"
+          }
+        ]
+      }
+    },
+    "endcataclysm_sword": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "projectdawn:endcataclysm_sword"
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "wooden_sword"
+    ],
+    [
+      "stone_sword"
+    ],
+    [
+      "golden_sword"
+    ],
+    [
+      "iron_sword"
+    ],
+    [
+      "diamond_sword"
+    ],
+    [
+      "netherite_sword"
+    ],
+    [
+      "arcane_sword"
+    ],
+    [
+      "piglin_sword"
+    ],
+    [
+      "firebrand_sword"
+    ],
+    [
+      "frostbrand_sword"
+    ],
+    [
+      "jaggedtooth_sword"
+    ],
+    [
+      "endcataclysm_sword"
+    ]
+  ]
+}

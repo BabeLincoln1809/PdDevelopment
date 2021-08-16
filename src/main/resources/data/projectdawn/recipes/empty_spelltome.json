@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:book"
+    },
+    {
+      "item": "minecraft:glowstone_dust"
+    },
+    {
+      "item": "projectdawn:arcane_shard"
+    }
+  ],
+  "result": {
+    "item": "projectdawn:empty_spelltome"
+  }
+}

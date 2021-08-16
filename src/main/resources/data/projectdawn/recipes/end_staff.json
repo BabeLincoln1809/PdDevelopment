@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " X ",
+    "Z#Y",
+    " D "
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:nether_star"
+    },
+    "X": {
+      "item": "projectdawn:soulfire_staff"
+    },
+    "Y": {
+      "item": "projectdawn:frostspark_staff"
+    },
+    "Z": {
+      "item": "projectdawn:nether_fork"
+    },
+    "D": {
+      "item": "projectdawn:diamond_staff"
+    }
+  },
+  "result": {
+    "item": "projectdawn:shadowcrescent_staff"
+  }
+}

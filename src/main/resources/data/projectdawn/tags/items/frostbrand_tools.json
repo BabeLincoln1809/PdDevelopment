@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values":
+  [
+    "projectdawn:frostbrand_pickaxe",
+    "projectdawn:frostbrand_shovel",
+    "projectdawn:frostbrand_axe",
+    "projectdawn:frostbrand_hoe",
+    "projectdawn:frostbrand_sword",
+    "projectdawn:frostbrand_battleaxe",
+    "projectdawn:frostbrand_bow"
+  ]
+}

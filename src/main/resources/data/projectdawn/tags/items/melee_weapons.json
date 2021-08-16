@@ -1,0 +1,33 @@
+{
+  "replace": false,
+  "values":
+  [
+    "minecraft:wooden_sword",
+    "minecraft:stone_sword",
+    "minecraft:golden_sword",
+    "minecraft:iron_sword",
+    "minecraft:diamond_sword",
+    "minecraft:netherite_sword",
+    "projectdawn:arcane_sword",
+    "projectdawn:piglin_sword",
+    "projectdawn:firebrand_sword",
+    "projectdawn:frostbrand_sword",
+    "projectdawn:jaggedtooth_sword",
+    "projectdawn:endcataclysm_sword",
+
+    "projectdawn:wooden_battleaxe",
+    "projectdawn:stone_battleaxe",
+    "projectdawn:golden_battleaxe",
+    "projectdawn:iron_battleaxe",
+    "projectdawn:diamond_battleaxe",
+    "projectdawn:netherite_battleaxe",
+    "projectdawn:cursed_battleaxe",
+    "projectdawn:firebrand_battleaxe",
+    "projectdawn:frostbrand_battleaxe",
+
+    "projectdawn:axeblade",
+    "projectdawn:piglin_doomblade",
+
+    "minecraft:trident"
+  ]
+}

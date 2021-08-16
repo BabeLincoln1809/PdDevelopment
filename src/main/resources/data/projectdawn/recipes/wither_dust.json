@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "projectdawn:wither_bone"
+    }
+  ],
+  "result": {
+    "item": "projectdawn:wither_dust"
+  }
+}

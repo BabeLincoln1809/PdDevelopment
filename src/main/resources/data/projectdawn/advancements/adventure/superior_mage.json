@@ -1,0 +1,79 @@
+{
+  "parent": "projectdawn:adventure/shoot_magic_projectile",
+  "display": {
+    "icon": {
+      "item": "projectdawn:diamond_staff"
+    },
+    "title": {
+      "translate": "advancements.adventure.superior_mage.title"
+    },
+    "description": {
+      "translate": "advancements.adventure.superior_mage.description"
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "rewards": {
+    "experience": 50
+  },
+  "criteria": {
+    "killed_evoker": {
+      "trigger": "minecraft:player_killed_entity",
+      "conditions": {
+        "entity": [
+          {
+            "condition": "minecraft:entity_properties",
+            "predicate": {
+              "type": "minecraft:evoker",
+              "distance": {
+                "horizontal": {
+                  "min": 50.0
+                }
+              }
+            },
+            "entity": "this"
+          }
+        ],
+        "killing_blow": {
+          "is_projectile": true,
+          "direct_entity": {
+            "type": "#projectdawn:magic_projectiles"
+          }
+        }
+      }
+    },
+    "killed_witch": {
+      "trigger": "minecraft:player_killed_entity",
+      "conditions": {
+        "entity": [
+          {
+            "condition": "minecraft:entity_properties",
+            "predicate": {
+              "type": "minecraft:witch",
+              "distance": {
+                "horizontal": {
+                  "min": 50.0
+                }
+              }
+            },
+            "entity": "this"
+          }
+        ],
+        "killing_blow": {
+          "is_projectile": true,
+          "direct_entity": {
+            "type": "#projectdawn:magic_projectiles"
+          }
+        }
+      }
+    }
+  },
+  "requirements": [
+    [
+      "killed_evoker",
+      "killed_witch"
+    ]
+  ]
+}

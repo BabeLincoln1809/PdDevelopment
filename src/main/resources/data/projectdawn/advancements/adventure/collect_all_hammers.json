@@ -1,0 +1,91 @@
+{
+  "parent": "projectdawn:adventure/obtain_hammer",
+  "display": {
+    "icon": {
+      "item": "projectdawn:gravity_hammer",
+      "nbt": "{Damage:0}"
+    },
+    "title": {
+      "translate": "advancements.adventure.collect_all_hammers.title"
+    },
+    "description": {
+      "translate": "advancements.adventure.collect_all_hammers.description"
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "rewards": {
+    "experience": 100
+  },
+  "criteria": {
+    "slime_slammer": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "projectdawn:slime_slammer"
+          }
+        ]
+      }
+    },
+    "hammer": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "projectdawn:hammer"
+          }
+        ]
+      }
+    },
+    "sunbreaker_hammer": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "projectdawn:sunbreaker_hammer"
+          }
+        ]
+      }
+    },
+    "gravity_hammer": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "projectdawn:gravity_hammer"
+          }
+        ]
+      }
+    },
+    "stormlander_hammer": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "projectdawn:stormlander_hammer"
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+      [
+      "slime_slammer"
+      ],
+      [
+      "hammer"
+      ],
+      [
+      "sunbreaker_hammer"
+      ],
+      [
+      "gravity_hammer"
+      ],
+      [
+      "stormlander_hammer"
+      ]
+  ]
+}

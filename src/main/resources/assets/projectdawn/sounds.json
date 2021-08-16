@@ -1,0 +1,110 @@
+{
+  "basic_magic_shoot": {
+    "category": "player",
+    "sounds": [
+      {
+        "name": "projectdawn:basic_magic_shoot",
+        "volume": 0.8
+      }
+    ]
+  },
+  "basic_magic_hit": {
+    "category": "player",
+    "sounds": [
+      {
+        "name": "projectdawn:basic_magic_hit",
+        "volume": 0.8
+      }
+    ]
+  },
+  "basic_empty_spellcast": {
+    "category": "player",
+    "sounds": [
+      {
+        "name": "projectdawn:basic_empty_spellcast",
+        "volume": 0.8
+      }
+    ]
+  },
+  "ice_shoot": {
+    "category": "player",
+    "sounds": [
+      {
+        "name": "projectdawn:ice_shoot",
+        "volume": 0.8
+      }
+    ]
+  },
+  "ice_hit": {
+    "category": "player",
+    "sounds": [
+      {
+        "name": "projectdawn:ice_hit",
+        "volume": 0.8
+      }
+    ]
+  },
+  "magicharp_use": {
+    "category": "player",
+    "sounds": [
+      {
+        "name": "projectdawn:magicharp_use",
+        "volume": 0.8
+      }
+    ]
+  },
+  "radiantharp_use": {
+    "category": "player",
+    "sounds": [
+      {
+        "name": "projectdawn:radiantharp_use",
+        "volume": 0.8
+      }
+    ]
+  },
+  "end_slash": {
+    "category": "player",
+    "sounds": [
+      {
+        "name": "projectdawn:end_slash",
+        "volume": 0.8
+      }
+    ]
+  },
+  "arcane_slash": {
+    "category": "player",
+    "sounds": [
+      {
+        "name": "projectdawn:arcane_slash",
+        "volume": 0.8
+      }
+    ]
+  },
+  "shadowcrescent_shoot": {
+    "category": "player",
+    "sounds": [
+      {
+        "name": "projectdawn:shadowcrescent_shoot",
+        "volume": 0.8
+      }
+    ]
+  },
+  "voidcharge_hit": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "projectdawn:voidcharge_hit",
+        "volume": 0.4
+      }
+    ]
+  },
+  "hammer_slam": {
+    "category": "player",
+    "sounds": [
+      {
+        "name": "projectdawn:hammer_slam",
+        "volume": 0.8
+      }
+    ]
+  }
+}

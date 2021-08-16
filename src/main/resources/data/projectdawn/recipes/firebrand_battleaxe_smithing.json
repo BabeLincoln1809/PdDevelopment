@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "projectdawn:netherite_battleaxe"
+  },
+  "addition": {
+    "item": "projectdawn:firebrand_ingot"
+  },
+  "result": {
+    "item": "projectdawn:firebrand_battleaxe"
+  }
+}

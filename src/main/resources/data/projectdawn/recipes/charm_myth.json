@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "projectdawn:charm_regeneration"
+    },
+    {
+      "item": "projectdawn:charm_arcane"
+    }
+  ],
+  "result": {
+    "item": "projectdawn:charm_myth"
+  }
+}

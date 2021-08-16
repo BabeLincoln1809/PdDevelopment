@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "projectdawn:magic_gauntlets"
+    },
+    {
+      "item": "projectdawn:ember_rune"
+    }
+  ],
+  "result": {
+    "item": "projectdawn:fire_gauntlets"
+  }
+}

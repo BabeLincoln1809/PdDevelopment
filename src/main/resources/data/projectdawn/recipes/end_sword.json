@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " X ",
+    "Z#Y",
+    " D "
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:ender_eye"
+    },
+    "X": {
+      "item": "projectdawn:jaggedtooth_sword"
+    },
+    "Y": {
+      "item": "projectdawn:frostbrand_sword"
+    },
+    "Z": {
+      "item": "projectdawn:firebrand_sword"
+    },
+    "D": {
+      "item": "minecraft:diamond_sword"
+    }
+  },
+  "result": {
+    "item": "projectdawn:endcataclysm_sword"
+  }
+}

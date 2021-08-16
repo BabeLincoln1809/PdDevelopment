@@ -1,0 +1,35 @@
+{
+  "parent": "projectdawn:adventure/root",
+  "display": {
+    "icon": {
+      "item": "projectdawn:arcane_shard"
+    },
+    "title": {
+      "translate": "advancements.adventure.mystic_wonders.title"
+    },
+    "description": {
+      "translate": "advancements.adventure.mystic_wonders.description"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "arcane_shard": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "projectdawn:arcane_shard"
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "arcane_shard"
+    ]
+  ]
+}

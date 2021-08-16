@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "YZY",
+    "ZXZ",
+    "YZY"
+  ],
+  "key": {
+    "X": {
+      "item": "minecraft:glass_bottle"
+    },
+      "Y": {
+        "item": "minecraft:glowstone_dust"
+      },
+    "Z": {
+      "item": "projectdawn:arcane_shard"
+    }
+  },
+      "result": {
+        "item": "minecraft:experience_bottle"
+      }
+}

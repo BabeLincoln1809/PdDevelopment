@@ -1,0 +1,42 @@
+{
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "projectdawn:items/axeblade"
+	},
+	"gui_light": "front",
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [-10, -90, 45],
+			"translation": [0, 11.75, -1.2],
+			"scale": [1.725, 1.725, 0.875]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [-10, 90, -45],
+			"translation": [0, 11.75, -1.2],
+			"scale": [1.725, 1.725, 0.875]
+		},
+		"firstperson_righthand": {
+			"rotation": [-180, -90, -150],
+			"translation": [1, 10.75, 3],
+			"scale": [1.5, 1.5, 0.75]
+		},
+		"firstperson_lefthand": {
+			"rotation": [-180, 90, 150],
+			"translation": [1, 10.75, 3],
+			"scale": [1.55, 1.55, 0.55]
+		},
+		"ground": {
+			"translation": [2.75, 4.25, 0],
+			"scale": [1, 1, 0.5]
+		},
+		"gui": {
+			"translation": [1.45, 1.45, 0],
+			"scale": [1.175, 1.175, 1.175]
+		},
+		"fixed": {
+			"rotation": [-180, 0, -180],
+			"translation": [-1.75, 1.75, -0.25],
+			"scale": [1.4, 1.4, 0.4]
+		}
+	}
+}

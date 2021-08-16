@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "minecraft:bow"
+  },
+  "addition": {
+    "item": "projectdawn:frostbrand_ingot"
+  },
+  "result": {
+    "item": "projectdawn:frostbrand_bow"
+  }
+}

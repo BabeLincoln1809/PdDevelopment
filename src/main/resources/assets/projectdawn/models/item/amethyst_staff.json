@@ -1,0 +1,42 @@
+{
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "projectdawn:items/amethyst_staff"
+	},
+	"gui_light": "front",
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [-10, -90, 45],
+			"translation": [0, 13.75, -1.2],
+			"scale": [1.725, 1.725, 0.875]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [-10, 90, -45],
+			"translation": [0, 13.75, -1.2],
+			"scale": [1.725, 1.725, 0.875]
+		},
+		"firstperson_righthand": {
+			"rotation": [-180, -90, -150],
+			"translation": [1, 11, 3],
+			"scale": [1.5, 1.5, 0.75]
+		},
+		"firstperson_lefthand": {
+			"rotation": [-180, 90, 150],
+			"translation": [1, 11, 3],
+			"scale": [1.5, 1.5, 0.75]
+		},
+		"ground": {
+			"translation": [2.75, 4.25, 0],
+			"scale": [1, 1, 0.5]
+		},
+		"gui": {
+			"translation": [3.625, 3.626, 0],
+			"scale": [1.45, 1.45, 1.45]
+		},
+		"fixed": {
+			"rotation": [-180, 0, -180],
+			"translation": [-4, 4, -0.25],
+			"scale": [1.55, 1.55, 0.55]
+		}
+	}
+}

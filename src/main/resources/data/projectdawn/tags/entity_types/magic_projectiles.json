@@ -1,0 +1,17 @@
+{
+  "replace": false,
+  "values": [
+    "projectdawn:arcane_bolt",
+    "projectdawn:emerald_bolt",
+    "projectdawn:ruby_bolt",
+    "projectdawn:diamond_bolt",
+    "projectdawn:radiant_bolt",
+    "projectdawn:arcane_slash",
+    "projectdawn:magic_note",
+    "projectdawn:end_slash",
+    "projectdawn:fire_ball",
+    "projectdawn:inferno_ball",
+    "projectdawn:soulcharge",
+    "projectdawn:voidcharge"
+  ]
+}

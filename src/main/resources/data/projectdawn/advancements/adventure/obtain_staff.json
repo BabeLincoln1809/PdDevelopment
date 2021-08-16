@@ -1,0 +1,36 @@
+{
+  "parent": "projectdawn:adventure/obtain_magic_weapon",
+  "display": {
+    "icon": {
+      "item": "projectdawn:amethyst_staff",
+      "nbt": "{Damage:0}"
+    },
+    "title": {
+      "translate": "advancements.adventure.obtain_staff.title"
+    },
+    "description": {
+      "translate": "advancements.adventure.obtain_staff.description"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "get_staff": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "tag": "projectdawn:staffs"
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "get_staff"
+    ]
+  ]
+}

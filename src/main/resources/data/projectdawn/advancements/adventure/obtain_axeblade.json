@@ -1,0 +1,36 @@
+{
+  "parent": "projectdawn:adventure/obtain_melee_weapon",
+  "display": {
+    "icon": {
+      "item": "projectdawn:axeblade",
+      "nbt": "{Damage:0}"
+    },
+    "title": {
+      "translate": "advancements.adventure.obtain_axeblade.title"
+    },
+    "description": {
+      "translate": "advancements.adventure.obtain_axeblade.description"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "get_axeblade": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "tag": "projectdawn:axeblades"
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "get_axeblade"
+    ]
+  ]
+}

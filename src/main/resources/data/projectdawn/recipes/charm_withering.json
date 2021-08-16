@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "YYY",
+    "YXY",
+    "YYY"
+  ],
+  "key": {
+    "X": {
+      "item": "projectdawn:charm_regeneration"
+    },
+      "Y": {
+        "item": "projectdawn:wither_dust"
+      }
+  },
+      "result": {
+        "item": "projectdawn:charm_withering"
+      }
+}

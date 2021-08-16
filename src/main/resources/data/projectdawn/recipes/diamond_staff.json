@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "  Y",
+    " X ",
+    "X  "
+  ],
+  "key": {
+    "X": {
+      "item": "projectdawn:iron_rod"
+    },
+      "Y": {
+        "item": "minecraft:diamond"
+      }
+  },
+      "result": {
+        "item": "projectdawn:diamond_staff"
+      }
+}

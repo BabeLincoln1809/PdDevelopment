@@ -1,0 +1,293 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "projectdawn:items/sunbreaker_hammer",
+		"particle": "projectdawn:items/sunbreaker_hammer"
+	},
+	"elements": [
+		{
+			"name": "sunbreaker_hammer_0",
+			"from": [5, 0, 9],
+			"to": [5.5, 0.5, 11.5],
+			"faces": {
+				"north": {"uv": [5.5, 9, 5, 9.5], "texture": "#0"},
+				"east": {"uv": [5, 9, 5.5, 11.5], "rotation": 90, "texture": "#0"},
+				"south": {"uv": [5, 11, 5.5, 11.5], "texture": "#0"},
+				"west": {"uv": [5, 9, 5.5, 11.5], "rotation": 270, "texture": "#0"},
+				"up": {"uv": [5, 9, 5.5, 11.5], "texture": "#0"},
+				"down": {"uv": [5, 11.5, 5.5, 9], "texture": "#0"}
+			}
+		},
+		{
+			"name": "sunbreaker_hammer_1",
+			"from": [4.5, 0, 9.5],
+			"to": [5, 0.5, 12],
+			"faces": {
+				"north": {"uv": [5, 9.5, 4.5, 10], "texture": "#0"},
+				"east": {"uv": [4.5, 9.5, 5, 12], "rotation": 90, "texture": "#0"},
+				"south": {"uv": [4.5, 11.5, 5, 12], "texture": "#0"},
+				"west": {"uv": [4.5, 9.5, 5, 12], "rotation": 270, "texture": "#0"},
+				"up": {"uv": [4.5, 9.5, 5, 12], "texture": "#0"},
+				"down": {"uv": [4.5, 12, 5, 9.5], "texture": "#0"}
+			}
+		},
+		{
+			"name": "sunbreaker_hammer_2",
+			"from": [5.5, 0, 9.5],
+			"to": [6.5, 0.5, 11.5],
+			"faces": {
+				"north": {"uv": [6.5, 9.5, 5.5, 10], "texture": "#0"},
+				"east": {"uv": [6, 9.5, 6.5, 11.5], "rotation": 90, "texture": "#0"},
+				"south": {"uv": [5.5, 11, 6.5, 11.5], "texture": "#0"},
+				"west": {"uv": [5.5, 9.5, 6, 11.5], "rotation": 270, "texture": "#0"},
+				"up": {"uv": [5.5, 9.5, 6.5, 11.5], "texture": "#0"},
+				"down": {"uv": [5.5, 11.5, 6.5, 9.5], "texture": "#0"}
+			}
+		},
+		{
+			"name": "sunbreaker_hammer_3",
+			"from": [6.5, 0, 10.5],
+			"to": [7, 0.5, 11],
+			"faces": {
+				"north": {"uv": [7, 10.5, 6.5, 11], "texture": "#0"},
+				"east": {"uv": [6.5, 10.5, 7, 11], "rotation": 90, "texture": "#0"},
+				"south": {"uv": [6.5, 10.5, 7, 11], "texture": "#0"},
+				"west": {"uv": [6.5, 10.5, 7, 11], "rotation": 270, "texture": "#0"},
+				"up": {"uv": [6.5, 10.5, 7, 11], "texture": "#0"},
+				"down": {"uv": [6.5, 11, 7, 10.5], "texture": "#0"}
+			}
+		},
+		{
+			"name": "sunbreaker_hammer_4",
+			"from": [4, 0, 11],
+			"to": [4.5, 0.5, 12.5],
+			"faces": {
+				"north": {"uv": [4.5, 11, 4, 11.5], "texture": "#0"},
+				"east": {"uv": [4, 11, 4.5, 12.5], "rotation": 90, "texture": "#0"},
+				"south": {"uv": [4, 12, 4.5, 12.5], "texture": "#0"},
+				"west": {"uv": [4, 11, 4.5, 12.5], "rotation": 270, "texture": "#0"},
+				"up": {"uv": [4, 11, 4.5, 12.5], "texture": "#0"},
+				"down": {"uv": [4, 12.5, 4.5, 11], "texture": "#0"}
+			}
+		},
+		{
+			"name": "sunbreaker_hammer_5",
+			"from": [3.5, 0, 11.5],
+			"to": [4, 0.5, 13],
+			"faces": {
+				"north": {"uv": [4, 11.5, 3.5, 12], "texture": "#0"},
+				"east": {"uv": [3.5, 11.5, 4, 13], "rotation": 90, "texture": "#0"},
+				"south": {"uv": [3.5, 12.5, 4, 13], "texture": "#0"},
+				"west": {"uv": [3.5, 11.5, 4, 13], "rotation": 270, "texture": "#0"},
+				"up": {"uv": [3.5, 11.5, 4, 13], "texture": "#0"},
+				"down": {"uv": [3.5, 13, 4, 11.5], "texture": "#0"}
+			}
+		},
+		{
+			"name": "sunbreaker_hammer_6",
+			"from": [3, 0, 12],
+			"to": [3.5, 0.5, 13.5],
+			"faces": {
+				"north": {"uv": [3.5, 12, 3, 12.5], "texture": "#0"},
+				"east": {"uv": [3, 12, 3.5, 13.5], "rotation": 90, "texture": "#0"},
+				"south": {"uv": [3, 13, 3.5, 13.5], "texture": "#0"},
+				"west": {"uv": [3, 12, 3.5, 13.5], "rotation": 270, "texture": "#0"},
+				"up": {"uv": [3, 12, 3.5, 13.5], "texture": "#0"},
+				"down": {"uv": [3, 13.5, 3.5, 12], "texture": "#0"}
+			}
+		},
+		{
+			"name": "sunbreaker_hammer_7",
+			"from": [2.5, 0, 12.5],
+			"to": [3, 0.5, 14],
+			"faces": {
+				"north": {"uv": [3, 12.5, 2.5, 13], "texture": "#0"},
+				"east": {"uv": [2.5, 12.5, 3, 14], "rotation": 90, "texture": "#0"},
+				"south": {"uv": [2.5, 13.5, 3, 14], "texture": "#0"},
+				"west": {"uv": [2.5, 12.5, 3, 14], "rotation": 270, "texture": "#0"},
+				"up": {"uv": [2.5, 12.5, 3, 14], "texture": "#0"},
+				"down": {"uv": [2.5, 14, 3, 12.5], "texture": "#0"}
+			}
+		},
+		{
+			"name": "sunbreaker_hammer_8",
+			"from": [2, 0, 13],
+			"to": [2.5, 0.5, 14.5],
+			"faces": {
+				"north": {"uv": [2.5, 13, 2, 13.5], "texture": "#0"},
+				"east": {"uv": [2, 13, 2.5, 14.5], "rotation": 90, "texture": "#0"},
+				"south": {"uv": [2, 14, 2.5, 14.5], "texture": "#0"},
+				"west": {"uv": [2, 13, 2.5, 14.5], "rotation": 270, "texture": "#0"},
+				"up": {"uv": [2, 13, 2.5, 14.5], "texture": "#0"},
+				"down": {"uv": [2, 14.5, 2.5, 13], "texture": "#0"}
+			}
+		},
+		{
+			"name": "sunbreaker_hammer_9",
+			"from": [1.5, 0, 13.5],
+			"to": [2, 0.5, 15.5],
+			"faces": {
+				"north": {"uv": [2, 13.5, 1.5, 14], "texture": "#0"},
+				"east": {"uv": [1.5, 13.5, 2, 15.5], "rotation": 90, "texture": "#0"},
+				"south": {"uv": [1.5, 15, 2, 15.5], "texture": "#0"},
+				"west": {"uv": [1.5, 13.5, 2, 15.5], "rotation": 270, "texture": "#0"},
+				"up": {"uv": [1.5, 13.5, 2, 15.5], "texture": "#0"},
+				"down": {"uv": [1.5, 15.5, 2, 13.5], "texture": "#0"}
+			}
+		},
+		{
+			"name": "sunbreaker_hammer_10",
+			"from": [0.5, 0, 14],
+			"to": [1.5, 0.5, 15.5],
+			"faces": {
+				"north": {"uv": [1.5, 14, 0.5, 14.5], "texture": "#0"},
+				"east": {"uv": [1, 14, 1.5, 15.5], "rotation": 90, "texture": "#0"},
+				"south": {"uv": [0.5, 15, 1.5, 15.5], "texture": "#0"},
+				"west": {"uv": [0.5, 14, 1, 15.5], "rotation": 270, "texture": "#0"},
+				"up": {"uv": [0.5, 14, 1.5, 15.5], "texture": "#0"},
+				"down": {"uv": [0.5, 15.5, 1.5, 14], "texture": "#0"}
+			}
+		},
+		{
+			"name": "sunbreaker_hammer_11",
+			"from": [0, 0, 15],
+			"to": [0.5, 0.5, 16],
+			"faces": {
+				"north": {"uv": [0.5, 15, 0, 15.5], "texture": "#0"},
+				"east": {"uv": [0, 15, 0.5, 16], "rotation": 90, "texture": "#0"},
+				"south": {"uv": [0, 15.5, 0.5, 16], "texture": "#0"},
+				"west": {"uv": [0, 15, 0.5, 16], "rotation": 270, "texture": "#0"},
+				"up": {"uv": [0, 15, 0.5, 16], "texture": "#0"},
+				"down": {"uv": [0, 16, 0.5, 15], "texture": "#0"}
+			}
+		},
+		{
+			"name": "sunbreaker_hammer_12",
+			"from": [0.5, 0, 15.5],
+			"to": [1, 0.5, 16],
+			"faces": {
+				"north": {"uv": [1, 15.5, 0.5, 16], "texture": "#0"},
+				"east": {"uv": [0.5, 15.5, 1, 16], "rotation": 90, "texture": "#0"},
+				"south": {"uv": [0.5, 15.5, 1, 16], "texture": "#0"},
+				"west": {"uv": [0.5, 15.5, 1, 16], "rotation": 270, "texture": "#0"},
+				"up": {"uv": [0.5, 15.5, 1, 16], "texture": "#0"},
+				"down": {"uv": [0.5, 16, 1, 15.5], "texture": "#0"}
+			}
+		},
+		{
+			"name": "sunbreaker_hammer_13",
+			"from": [8, -1.5, 2.5],
+			"to": [14, 2, 6],
+			"rotation": {"angle": -45, "axis": "y", "origin": [3, 1.75, 1.75]},
+			"faces": {
+				"north": {"uv": [0, 0, 6, 3.5], "texture": "#0"},
+				"east": {"uv": [9.5, 3.5, 6, 7], "texture": "#0"},
+				"south": {"uv": [0, 3.5, 6, 0], "texture": "#0"},
+				"west": {"uv": [6, 7, 9.5, 3.5], "texture": "#0"},
+				"up": {"uv": [0, 3.5, 6, 7], "texture": "#0"},
+				"down": {"uv": [0, 7, 6, 3.5], "texture": "#0"}
+			}
+		},
+		{
+			"name": "sunbreaker_hammer_14",
+			"from": [7, -0.5, 3.5],
+			"to": [8, 1, 5],
+			"rotation": {"angle": -45, "axis": "y", "origin": [3, 1.75, 1.75]},
+			"faces": {
+				"north": {"uv": [6, 1, 7.5, 2.5], "texture": "#0"},
+				"east": {"uv": [7.5, 1, 6, 2.5], "texture": "#0"},
+				"south": {"uv": [6, 2.5, 7.5, 1], "texture": "#0"},
+				"west": {"uv": [6, 2.5, 7.5, 1], "texture": "#0"},
+				"up": {"uv": [6, 1, 7.5, 2.5], "texture": "#0"},
+				"down": {"uv": [6, 2.5, 7.5, 1], "texture": "#0"}
+			}
+		},
+		{
+			"name": "sunbreaker_hammer_15",
+			"from": [6.5, -1.5, 2.5],
+			"to": [7.5, 2, 6],
+			"rotation": {"angle": -45, "axis": "y", "origin": [3, 1.75, 1.75]},
+			"faces": {
+				"north": {"uv": [5, 0, 6, 3.5], "texture": "#0"},
+				"east": {"uv": [9.5, 3.5, 6, 7], "texture": "#0"},
+				"south": {"uv": [5, 3.5, 6, 0], "texture": "#0"},
+				"west": {"uv": [6, 7, 9.5, 3.5], "texture": "#0"},
+				"up": {"uv": [0, 3.5, 1, 7], "texture": "#0"},
+				"down": {"uv": [0, 7, 1, 3.5], "texture": "#0"}
+			}
+		},
+		{
+			"name": "sunbreaker_hammer_16",
+			"from": [14.5, -1.5, 2.5],
+			"to": [15.5, 2, 6],
+			"rotation": {"angle": -45, "axis": "y", "origin": [3, 1.75, 1.75]},
+			"faces": {
+				"north": {"uv": [0, 0, 1, 3.5], "texture": "#0"},
+				"east": {"uv": [9.5, 3.5, 6, 7], "texture": "#0"},
+				"south": {"uv": [0, 3.5, 1, 0], "texture": "#0"},
+				"west": {"uv": [6, 7, 9.5, 3.5], "texture": "#0"},
+				"up": {"uv": [5, 3.5, 6, 7], "texture": "#0"},
+				"down": {"uv": [5, 7, 6, 3.5], "texture": "#0"}
+			}
+		},
+		{
+			"name": "sunbreaker_hammer_17",
+			"from": [14, -0.5, 3.5],
+			"to": [15, 1, 5],
+			"rotation": {"angle": -45, "axis": "y", "origin": [3, 1.75, 1.75]},
+			"faces": {
+				"north": {"uv": [6, 1, 7.5, 2.5], "texture": "#0"},
+				"east": {"uv": [7.5, 1, 6, 2.5], "texture": "#0"},
+				"south": {"uv": [6, 2.5, 7.5, 1], "texture": "#0"},
+				"west": {"uv": [6, 2.5, 7.5, 1], "texture": "#0"},
+				"up": {"uv": [6, 1, 7.5, 2.5], "texture": "#0"},
+				"down": {"uv": [6, 2.5, 7.5, 1], "texture": "#0"}
+			}
+		}
+	],
+	"gui_light": "front",
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [-145, -180, -90],
+			"translation": [-12.75, 11.75, -0.5],
+			"scale": [1.65, 1.65, 1.65]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [-145, -180, 90],
+			"translation": [12.75, 11.75, -0.5],
+			"scale": [1.65, 1.65, 1.65]
+		},
+		"firstperson_righthand": {
+			"rotation": [-116, -180, -90],
+			"translation": [-10, 10.75, 2],
+			"scale": [1.55, 1.55, 1.55]
+		},
+		"firstperson_lefthand": {
+			"rotation": [-116, -180, 90],
+			"translation": [14, 10.75, 2],
+			"scale": [1.55, 1.55, 1.55]
+		},
+		"ground": {
+			"rotation": [90, 0, 0],
+			"translation": [1.5, 3.5, 5.75],
+			"scale": [0.8, 0.8, 0.8]
+		},
+		"gui": {
+			"rotation": [90, 0, 30],
+			"translation": [-2.55, 3, 7.5],
+			"scale": [1.27, 1.27, 1.27]
+		},
+		"fixed": {
+			"rotation": [90, 0, -180],
+			"translation": [-4.5, 4.5, -11.55],
+			"scale": [1.5, 1.5, 1.5]
+		}
+	},
+	"groups": [
+		{
+			"name": "sunbreaker_hammer",
+			"origin": [8, 8, 8],
+			"children": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17]
+		}
+	]
+}

@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "  Y",
+    " X ",
+    "X  "
+  ],
+  "key": {
+    "X": {
+      "item": "projectdawn:golden_rod"
+    },
+      "Y": {
+        "item": "minecraft:emerald"
+      }
+  },
+      "result": {
+        "item": "projectdawn:emerald_staff"
+      }
+}

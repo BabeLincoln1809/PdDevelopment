@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cross",
+  "textures": {
+    "cross": "projectdawn:blocks/arcane_cluster"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "variants": {
+    "facing=east,waterlogged=false": {
+      "model": "projectdawn:block/arcane_sword_shrine_andesite",
+      "y": 90
+    },
+    "facing=east,waterlogged=true": {
+      "model": "projectdawn:block/arcane_sword_shrine_andesite",
+      "y": 90
+    },
+    "facing=north,waterlogged=false": {
+      "model": "projectdawn:block/arcane_sword_shrine_andesite"
+    },
+    "facing=north,waterlogged=true": {
+      "model": "projectdawn:block/arcane_sword_shrine_andesite"
+    },
+    "facing=south,waterlogged=false": {
+      "model": "projectdawn:block/arcane_sword_shrine_andesite"
+    },
+    "facing=south,waterlogged=true": {
+      "model": "projectdawn:block/arcane_sword_shrine_andesite"
+    },
+    "facing=west,waterlogged=false": {
+      "model": "projectdawn:block/arcane_sword_shrine_andesite",
+      "y": 90
+    },
+    "facing=west,waterlogged=true": {
+      "model": "projectdawn:block/arcane_sword_shrine_andesite",
+      "y": 90
+    }
+  }
+}

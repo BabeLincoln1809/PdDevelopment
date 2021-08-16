@@ -1,0 +1,18 @@
+{
+  "replace": false,
+  "values":
+  [
+    "minecraft:wooden_sword",
+    "minecraft:stone_sword",
+    "minecraft:golden_sword",
+    "minecraft:iron_sword",
+    "minecraft:diamond_sword",
+    "minecraft:netherite_sword",
+    "projectdawn:arcane_sword",
+    "projectdawn:piglin_sword",
+    "projectdawn:firebrand_sword",
+    "projectdawn:frostbrand_sword",
+    "projectdawn:jaggedtooth_sword",
+    "projectdawn:endcataclysm_sword"
+  ]
+}
